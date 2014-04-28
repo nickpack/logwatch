@@ -15,5 +15,4 @@ galaxy_info:
   - monitoring
 
 dependencies:
-  - Ansibles.perl
-  - Ansibles.cron
+  - cron
